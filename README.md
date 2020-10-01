@@ -1,5 +1,5 @@
-# Categorizador-de-despesas
-Algorítimo de machine learning que classifica as despesas do cartão de crédito a partir da descrição da compra
+# Expense-categorizer
+Machine-learning algorithm that sorts credit card charges from the purchase description
 
-Para visulaizar o notebook do jupyter, acesse o link:
+Access the link:
 https://nbviewer.jupyter.org/github/Beigelman/Categorizador-de-despesas/blob/master/categorizador_financas.ipynb
